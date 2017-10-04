@@ -11,13 +11,12 @@ http://freenmea.net
 
 ## Feather GPSKit
 
-This kit is based on the Adafruit Feather system using the Adalogger and the Ultimate GPS Feather wing.
+This kit is based on the Adafruit Feather system using the Adalogger and the Ultimate GPS Feather wing. Other kits may follow at some point
 
 The full set of materials is in this wishlist: https://www.adafruit.com/wishlists/446492. Note that the antenna and adapter are optional.
 
 You will also need to select a 3.7v LiPoly battery: https://www.adafruit.com/category/44_138
 
-Other kits may follow at some point
 
 ### Assembly
 
@@ -29,6 +28,14 @@ Other kits may follow at some point
 
 TBD
 
-KnightLab_GPS has GPS reading code https://github.com/NUKnightLab/KnightLab_GPS
+[KnightLab_GPS](https://github.com/NUKnightLab/KnightLab_GPS) has GPS reading code
 
-SensorGrid has SD card logging code: https://github.com/NUKnightLab/SensorGrid/blob/master/io.cpp#L139
+[SensorGrid](https://github.com/NUKnightLab/SensorGrid) has SD card [logging code](https://github.com/NUKnightLab/SensorGrid/blob/master/io.cpp#L139)
+
+## Data Wrangling and hosting
+
+TBD. Will probably do a reference example using S3 to host the data. Perhaps GitHub static files also
+
+## Mapping
+
+TBD

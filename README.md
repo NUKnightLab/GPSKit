@@ -19,9 +19,6 @@ The full set of materials is in this wishlist: https://www.adafruit.com/wishlist
   - select a 3.7v LiPoly battery according to your mAh (capacity) and weight requirements
   - choose either the 32u4 or the M0 Adalogger. At the moment we are anticipating that either will work
 
-You will also need to select a 3.7v LiPoly battery: https://www.adafruit.com/category/44_138
-
-
 ### Assembly
 
  - solder short female stacking headers onto your Adalogger

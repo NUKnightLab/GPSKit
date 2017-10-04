@@ -13,7 +13,11 @@ http://freenmea.net
 
 This kit is based on the Adafruit Feather system using the Adalogger and the Ultimate GPS Feather wing. Other kits may follow at some point
 
-The full set of materials is in this wishlist: https://www.adafruit.com/wishlists/446492. Note that the antenna and adapter are optional.
+The full set of materials is in this wishlist: https://www.adafruit.com/wishlists/446492. Notes:
+  - the antenna and adapter are optional
+  - coin cell is only really needed for the GPS
+  - select a 3.7v LiPoly battery according to your mAh (capacity) and weight requirements
+  - choose either the 32u4 or the M0 Adalogger. At the moment we are anticipating that either will work
 
 You will also need to select a 3.7v LiPoly battery: https://www.adafruit.com/category/44_138
 
